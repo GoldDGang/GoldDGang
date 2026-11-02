@@ -23,7 +23,7 @@
 
 ## 🔭 About Me
 
-- 🎓 4th-year **Computer Science** student
+- 🎓 3rd-year **Computer Science** student
 - 🔬 Working across **ML research** and **applied ML engineering**
 - 🎯 Goal: turning models into systems that customers actually use
 
@@ -35,7 +35,7 @@
 
 ## 🔭 소개
 
-- 🎓 **컴퓨터공학과** 4학년
+- 🎓 **컴퓨터공학과** 3학년
 - 🔬 **ML 연구**와 **실무 ML 엔지니어링**을 함께 하고 있습니다
 - 🎯 목표: 모델을 실제 고객이 쓰는 시스템으로 만드는 것
 
