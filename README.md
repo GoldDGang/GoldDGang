@@ -9,6 +9,10 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimgangwook03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B0%95%EC%9A%B1-%EA%B9%80-963b23409)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoldDGang)
+[![Hugging Face Profile](https://shields.io)](https://huggingface.co/GoldDGang)
+[![Hugging Face](https://shields.io)](https://huggingface.co/GoldDGang)
+[![Hugging Face](https://shields.io)](https://huggingface.co/GoldDGang)
+
 
 [![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)](#english)
 [![Korean](https://img.shields.io/badge/lang-한국어-red?style=flat-square)](#korean)
